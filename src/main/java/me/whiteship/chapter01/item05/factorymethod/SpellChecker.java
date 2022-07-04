@@ -3,7 +3,7 @@ package me.whiteship.chapter01.item05.factorymethod;
 import me.whiteship.chapter01.item05.Dictionary;
 
 import java.util.List;
-
+//spring ioc bean factory
 public class SpellChecker {
 
     private Dictionary dictionary;
